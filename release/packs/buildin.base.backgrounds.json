@@ -32,13 +32,13 @@
 			"id": "ddlc.musicroom",
 			"label": "Music room",
 			"folder": "/backgrounds/",
-			"variants": [["musicroom{ext}"]]
+			"variants": [["musicroom{ext}"], ["music-room_night.png"],["music-room_afternoon.png"],["music-room_darkthing.png"]]
 		},
 		{
 			"id": "ddlc.stairwell",
 			"label": "Stairwell",
 			"folder": "/backgrounds/",
-			"variants": [["stairwell{ext}"]]
+			"variants": [["stairwell{ext}"],["vending_machine_afternoon.png"],["vending_machine_night.png"],["vending_machine_glitch1.png"]]
 		},
 		{
 			"id": "ddlc.street",
