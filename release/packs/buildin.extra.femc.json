@@ -40,21 +40,21 @@
 						["z.png"],
 						["glitch1.png"],
 						["glitch2.png"],
-						["_1.png"],
-						["_2.png"],
-						["_3.png"],
-						["_4.png"],
-						["_5.png"],
-						["_6.png"],
-						["_7.png"],
-						["_8.png"],
-						["_9.png"],
-						["_10.png"],
-						["_10alt.png"],
-						["_11.png"],
-						["_12.png"],
-						["_13.png"],
-						["_14.png"]
+						["1.png"],
+						["2.png"],
+						["3.png"],
+						["4.png"],
+						["5.png"],
+						["6.png"],
+						["7.png"],
+						["8.png"],
+						["9.png"],
+						["10.png"],
+						["10alt.png"],
+						["11.png"],
+						["12.png"],
+						["13.png"],
+						["14.png"]
 					]
 				},
 				"straight_lh": {
@@ -88,21 +88,21 @@
 						["z.png"],
 						["glitch1.png"],
 						["glitch2.png"],
-						["_1.png"],
-						["_2.png"],
-						["_3.png"],
-						["_4.png"],
-						["_5.png"],
-						["_6.png"],
-						["_7.png"],
-						["_8.png"],
-						["_9.png"],
-						["_10.png"],
-						["_10alt.png"],
-						["_11.png"],
-						["_12.png"],
-						["_13.png"],
-						["_14.png"]
+						["1.png"],
+						["2.png"],
+						["3.png"],
+						["4.png"],
+						["5.png"],
+						["6.png"],
+						["7.png"],
+						["8.png"],
+						["9.png"],
+						["10.png"],
+						["10alt.png"],
+						["11.png"],
+						["12.png"],
+						["13.png"],
+						["14.png"]
 					]
 				},
 				"straight_hetero": {
@@ -136,21 +136,21 @@
 						["z.png"],
 						["glitch1.png"],
 						["glitch2.png"],
-						["_1.png"],
-						["_2.png"],
-						["/femc/_3.png"],
-						["/femc/_4.png"],
-						["/femc/_5.png"],
-						["/femc/_6.png"],
-						["_7.png"],
-						["_8.png"],
-						["/femc/_9.png"],
-						["/femc/_10.png"],
-						["/femc/_10alt.png"],
-						["_11.png"],
-						["_12.png"],
-						["_13.png"],
-						["_14.png"]
+						["1.png"],
+						["2.png"],
+						["/femc/3.png"],
+						["/femc/4.png"],
+						["/femc/5.png"],
+						["/femc/6.png"],
+						["7.png"],
+						["8.png"],
+						["/femc/9.png"],
+						["/femc/10.png"],
+						["/femc/10alt.png"],
+						["11.png"],
+						["12.png"],
+						["13.png"],
+						["14.png"]
 					]
 				},
 				"straight_hetero_lh": {
@@ -184,21 +184,21 @@
 						["z.png"],
 						["glitch1.png"],
 						["glitch2.png"],
-						["_1.png"],
-						["_2.png"],
-						["/femc_lh/_3.png"],
-						["/femc_lh/_4.png"],
-						["/femc_lh/_5.png"],
-						["/femc_lh/_6.png"],
-						["_7.png"],
-						["_8.png"],
-						["/femc_lh/_9.png"],
-						["/femc_lh/_10.png"],
-						["/femc_lh/_10alt.png"],
-						["_11.png"],
-						["_12.png"],
-						["_13.png"],
-						["_14.png"]
+						["1.png"],
+						["2.png"],
+						["/femc_lh/3.png"],
+						["/femc_lh/4.png"],
+						["/femc_lh/5.png"],
+						["/femc_lh/6.png"],
+						["7.png"],
+						["8.png"],
+						["/femc_lh/9.png"],
+						["/femc_lh/10.png"],
+						["/femc_lh/10alt.png"],
+						["11.png"],
+						["12.png"],
+						["13.png"],
+						["14.png"]
 					]
 				}
 			},
@@ -249,7 +249,7 @@
 									"compatibleHeads": ["straight"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3.png"] }
+										{ "type": "image", "images": ["3a.png"] }
 									]
 								}
 							]
@@ -279,7 +279,7 @@
 									"compatibleHeads": ["straight_lh"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3.png"] }
+										{ "type": "image", "images": ["3a.png"] }
 									]
 								}
 							]
@@ -309,7 +309,7 @@
 									"compatibleHeads": ["straight_hetero"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3.png"] }
+										{ "type": "image", "images": ["3a.png"] }
 									]
 								}
 							]
@@ -339,7 +339,7 @@
 									"compatibleHeads": ["straight_hetero_lh"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3.png"] }
+										{ "type": "image", "images": ["3a.png"] }
 									]
 								}
 							]
