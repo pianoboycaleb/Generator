@@ -8,76 +8,76 @@
 			"id": "ddlc.clubroom",
 			"label": "Clubroom",
 			"folder": "/backgrounds/",
-			"variants": [["club{ext}"], ["club-sm-intro{ext}"], ["club_morning{ext}"]]
+			"variants": [["club.png"], ["club-sm-intro.png"], ["club_morning.png"]]
 		},
 		{
 			"id": "ddlc.closet",
 			"label": "Closet",
 			"folder": "/backgrounds/",
-			"variants": [["closet{ext}"]]
+			"variants": [["closet.png"]]
 		},
 		{
 			"id": "ddlc.corridor",
 			"label": "Corridor",
 			"folder": "/backgrounds/",
-			"variants": [["corridor{ext}"]]
+			"variants": [["corridor.png"]]
 		},
 		{
 			"id": "ddlc.classroom",
 			"label": "Classroom",
 			"folder": "/backgrounds/",
-			"variants": [["class{ext}"]]
+			"variants": [["class.png"]]
 		},
 		{
 			"id": "ddlc.musicroom",
 			"label": "Music room",
 			"folder": "/backgrounds/",
-			"variants": [["musicroom{ext}"], ["music-room_night.png"],["music-room_afternoon.png"],["music-room_darkthing.png"]]
+			"variants": [["musicroom.png"], ["music-room_night.png"],["music-room_afternoon.png"],["music-room_darkthing.png"]]
 		},
 		{
 			"id": "ddlc.stairwell",
 			"label": "Stairwell",
 			"folder": "/backgrounds/",
-			"variants": [["stairwell{ext}"],["vending_machine_afternoon.png"],["vending_machine_night.png"],["vending_machine_glitch1.png"]]
+			"variants": [["stairwell.png"],["vending_machine_afternoon.png"],["vending_machine_night.png"],["vending_machine_glitch1.png"]]
 		},
 		{
 			"id": "ddlc.street",
 			"label": "Street",
 			"folder": "/backgrounds/",
-			"variants": [["residential{ext}"]]
+			"variants": [["residential.png"]]
 		},
 		{
 			"id": "ddlc.house",
 			"label": "House",
 			"folder": "/backgrounds/",
-			"variants": [["house{ext}"]]
+			"variants": [["house.png"]]
 		},
 		{
 			"id": "ddlc.bedroom",
 			"label": "Bedroom",
 			"folder": "/backgrounds/",
-			"variants": [["bedroom{ext}"]]
+			"variants": [["bedroom.png"]]
 		},
 		{
 			"id": "ddlc.kitchen",
 			"label": "Kitchen",
 			"folder": "/backgrounds/",
-			"variants": [["kitchen{ext}"]]
+			"variants": [["kitchen.png"]]
 		},
 		{
 			"id": "ddlc.sayoris",
 			"label": "Sayori's bedroom",
 			"variants": [
-				["/backgrounds/sayori_bedroom{ext}"],
-				["/cg/sayori_kill/s_kill_bg{ext}"],
-				["/cg/sayori_kill/s_kill_bg2{ext}"]
+				["/backgrounds/sayori_bedroom.png"],
+				["/cg/sayori_kill/s_kill_bg.png"],
+				["/cg/sayori_kill/s_kill_bg2.png"]
 			]
 		},
 		{
 			"id": "ddlc.bosd",
 			"label": "Blue screen of death",
 			"folder": "/backgrounds/",
-			"variants": [["bsod{ext}"]]
+			"variants": [["bsod.png"]]
 		},
 		{
 			"id": "ddlc.unused_house",
@@ -90,13 +90,13 @@
 			"label": "Natsuki reading manga",
 			"folder": "/cg/natsuki_1/",
 			"variants": [
-				["n_cg1_bg{ext}"],
-				["n_cg1_bg{ext}", "n_cg1_base{ext}"],
-				["n_cg1_bg{ext}", "n_cg1_base{ext}", "n_cg1_exp1{ext}"],
-				["n_cg1_bg{ext}", "n_cg1_base{ext}", "n_cg1_exp2{ext}"],
-				["n_cg1_bg{ext}", "n_cg1_base{ext}", "n_cg1_exp3{ext}"],
-				["n_cg1_bg{ext}", "n_cg1_base{ext}", "n_cg1_exp4{ext}"],
-				["n_cg1_bg{ext}", "n_cg1_base{ext}", "n_cg1_exp5{ext}"]
+				["n_cg1_bg.png"],
+				["n_cg1_bg.png", "n_cg1_base.png"],
+				["n_cg1_bg.png", "n_cg1_base.png", "n_cg1_exp1.png"],
+				["n_cg1_bg.png", "n_cg1_base.png", "n_cg1_exp2.png"],
+				["n_cg1_bg.png", "n_cg1_base.png", "n_cg1_exp3.png"],
+				["n_cg1_bg.png", "n_cg1_base.png", "n_cg1_exp4.png"],
+				["n_cg1_bg.png", "n_cg1_base.png", "n_cg1_exp5.png"]
 			]
 		},
 		{
@@ -104,10 +104,10 @@
 			"label": "Natsuki in the closet",
 			"folder": "/cg/natsuki_2/",
 			"variants": [
-				["n_cg2_bg{ext}"],
-				["n_cg2_bg{ext}", "n_cg2_base{ext}"],
-				["n_cg2_bg{ext}", "n_cg2_base{ext}", "n_cg2_exp1{ext}"],
-				["n_cg2_bg{ext}", "n_cg2_base{ext}", "n_cg2_exp2{ext}"]
+				["n_cg2_bg.png"],
+				["n_cg2_bg.png", "n_cg2_base.png"],
+				["n_cg2_bg.png", "n_cg2_base.png", "n_cg2_exp1.png"],
+				["n_cg2_bg.png", "n_cg2_base.png", "n_cg2_exp2.png"]
 			]
 		},
 		{
@@ -115,55 +115,55 @@
 			"label": "Natsuki against the wall",
 			"folder": "/cg/natsuki_3/",
 			"variants": [
-				["n_cg3_base{ext}"],
-				["n_cg3_base{ext}", "n_cg3_exp1{ext}"],
-				["n_cg3_base{ext}", "n_cg3_exp2{ext}"],
-				["n_cg3_base{ext}", "n_cg3_cake{ext}"],
-				["n_cg3_base{ext}", "n_cg3_exp1{ext}", "n_cg3_cake{ext}"],
-				["n_cg3_base{ext}", "n_cg3_exp2{ext}", "n_cg3_cake{ext}"]
+				["n_cg3_base.png"],
+				["n_cg3_base.png", "n_cg3_exp1.png"],
+				["n_cg3_base.png", "n_cg3_exp2.png"],
+				["n_cg3_base.png", "n_cg3_cake.png"],
+				["n_cg3_base.png", "n_cg3_exp1.png", "n_cg3_cake.png"],
+				["n_cg3_base.png", "n_cg3_exp2.png", "n_cg3_cake.png"]
 			]
 		},
 		{
 			"id": "ddlc.sayori.dressing",
 			"label": "Sayori dressing",
 			"folder": "/cg/sayori_1/",
-			"variants": [["s_cg1{ext}"]]
+			"variants": [["s_cg1.png"]]
 		},
 		{
 			"id": "ddlc.sayori.bumped_head",
 			"label": "Sayori bumped head",
 			"folder": "/cg/sayori_2/",
 			"variants": [
-				["s_cg2_base1{ext}"],
-				["s_cg2_base1{ext}", "s_cg2_exp1{ext}"],
-				["s_cg2_base1{ext}", "s_cg2_exp2{ext}"],
-				["s_cg2_base1{ext}", "s_cg2_exp3{ext}"],
-				["s_cg2_base1{ext}", "s_cg2_exp1{ext}", "s_cg2_exp3{ext}"],
-				["s_cg2_base1{ext}", "s_cg2_exp2{ext}", "s_cg2_exp3{ext}"],
-				["s_cg2_base2{ext}"],
-				["s_cg2_base2{ext}", "s_cg2_exp1{ext}"],
-				["s_cg2_base2{ext}", "s_cg2_exp2{ext}"],
-				["s_cg2_base2{ext}", "s_cg2_exp3{ext}"],
-				["s_cg2_base2{ext}", "s_cg2_exp1{ext}", "s_cg2_exp3{ext}"],
-				["s_cg2_base2{ext}", "s_cg2_exp2{ext}", "s_cg2_exp3{ext}"]
+				["s_cg2_base1.png"],
+				["s_cg2_base1.png", "s_cg2_exp1.png"],
+				["s_cg2_base1.png", "s_cg2_exp2.png"],
+				["s_cg2_base1.png", "s_cg2_exp3.png"],
+				["s_cg2_base1.png", "s_cg2_exp1.png", "s_cg2_exp3.png"],
+				["s_cg2_base1.png", "s_cg2_exp2.png", "s_cg2_exp3.png"],
+				["s_cg2_base2.png"],
+				["s_cg2_base2.png", "s_cg2_exp1.png"],
+				["s_cg2_base2.png", "s_cg2_exp2.png"],
+				["s_cg2_base2.png", "s_cg2_exp3.png"],
+				["s_cg2_base2.png", "s_cg2_exp1.png", "s_cg2_exp3.png"],
+				["s_cg2_base2.png", "s_cg2_exp2.png", "s_cg2_exp3.png"]
 			]
 		},
 		{
 			"id": "ddlc.sayori.hug",
 			"label": "Sayori hug",
 			"folder": "/cg/sayori_3/",
-			"variants": [["s_cg3{ext}"]]
+			"variants": [["s_cg3.png"]]
 		},
 		{
 			"id": "ddlc.yuri.reading",
 			"label": "Yuri reading",
 			"folder": "/cg/yuri_1/",
 			"variants": [
-				["y_cg1_base{ext}"],
-				["y_cg1_base{ext}", "y_cg1_exp2{ext}"],
-				["y_cg1_base{ext}", "y_cg1_exp1{ext}"],
-				["y_cg1_base{ext}", "y_cg1_exp1{ext}", "y_cg1_exp2{ext}"],
-				["y_cg1_base{ext}", "y_cg1_exp3{ext}"]
+				["y_cg1_base.png"],
+				["y_cg1_base.png", "y_cg1_exp2.png"],
+				["y_cg1_base.png", "y_cg1_exp1.png"],
+				["y_cg1_base.png", "y_cg1_exp1.png", "y_cg1_exp2.png"],
+				["y_cg1_base.png", "y_cg1_exp3.png"]
 			]
 		},
 		{
@@ -171,75 +171,75 @@
 			"label": "Yuri against the wall",
 			"folder": "/cg/yuri_2/",
 			"variants": [
-				["y_cg2_bg1{ext}"],
-				["y_cg2_bg1{ext}", "y_cg2_base{ext}", "y_cg2_nochoc{ext}"],
+				["y_cg2_bg1.png"],
+				["y_cg2_bg1.png", "y_cg2_base.png", "y_cg2_nochoc.png"],
 				[
-					"y_cg2_bg1{ext}",
-					"y_cg2_base{ext}",
-					"y_cg2_exp2{ext}",
-					"y_cg2_nochoc{ext}"
+					"y_cg2_bg1.png",
+					"y_cg2_base.png",
+					"y_cg2_exp2.png",
+					"y_cg2_nochoc.png"
 				],
 				[
-					"y_cg2_bg1{ext}",
-					"y_cg2_base{ext}",
-					"y_cg2_exp3{ext}",
-					"y_cg2_nochoc{ext}"
+					"y_cg2_bg1.png",
+					"y_cg2_base.png",
+					"y_cg2_exp3.png",
+					"y_cg2_nochoc.png"
 				],
-				["y_cg2_bg1{ext}", "y_cg2_base{ext}"],
-				["y_cg2_bg1{ext}", "y_cg2_base{ext}", "y_cg2_exp2{ext}"],
-				["y_cg2_bg1{ext}", "y_cg2_base{ext}", "y_cg2_exp3{ext}"],
-				["y_cg2_bg2{ext}"],
-				["y_cg2_bg2{ext}", "y_cg2_base{ext}", "y_cg2_nochoc{ext}"],
+				["y_cg2_bg1.png", "y_cg2_base.png"],
+				["y_cg2_bg1.png", "y_cg2_base.png", "y_cg2_exp2.png"],
+				["y_cg2_bg1.png", "y_cg2_base.png", "y_cg2_exp3.png"],
+				["y_cg2_bg2.png"],
+				["y_cg2_bg2.png", "y_cg2_base.png", "y_cg2_nochoc.png"],
 				[
-					"y_cg2_bg2{ext}",
-					"y_cg2_base{ext}",
-					"y_cg2_exp2{ext}",
-					"y_cg2_nochoc{ext}"
+					"y_cg2_bg2.png",
+					"y_cg2_base.png",
+					"y_cg2_exp2.png",
+					"y_cg2_nochoc.png"
 				],
 				[
-					"y_cg2_bg2{ext}",
-					"y_cg2_base{ext}",
-					"y_cg2_exp3{ext}",
-					"y_cg2_nochoc{ext}"
+					"y_cg2_bg2.png",
+					"y_cg2_base.png",
+					"y_cg2_exp3.png",
+					"y_cg2_nochoc.png"
 				],
-				["y_cg2_bg2{ext}", "y_cg2_base{ext}"],
-				["y_cg2_bg2{ext}", "y_cg2_base{ext}", "y_cg2_exp2{ext}"],
-				["y_cg2_bg2{ext}", "y_cg2_base{ext}", "y_cg2_exp3{ext}"]
+				["y_cg2_bg2.png", "y_cg2_base.png"],
+				["y_cg2_bg2.png", "y_cg2_base.png", "y_cg2_exp2.png"],
+				["y_cg2_bg2.png", "y_cg2_base.png", "y_cg2_exp3.png"]
 			]
 		},
 		{
 			"id": "ddlc.yuri.towel",
 			"label": "Yuri with towel",
 			"folder": "/cg/yuri_3/",
-			"variants": [["y_cg3_base{ext}"], ["y_cg3_base{ext}", "y_cg3_exp1{ext}"]]
+			"variants": [["y_cg3_base.png"], ["y_cg3_base.png", "y_cg3_exp1.png"]]
 		},
 		{
 			"id": "ddlc.spaceroom",
 			"label": "The spaceroom",
 			"folder": "/cg/monika/",
 			"variants": [
-				["monika_room{ext}"],
-				["space{ext}", "monika_room{ext}"],
-				["monika_room_highlight{ext}"],
-				["space{ext}", "monika_room_highlight{ext}"],
-				["monika_bg{ext}"],
-				["space{ext}", "monika_bg{ext}"],
-				["monika_bg_highlight{ext}"],
-				["space{ext}", "monika_bg_highlight{ext}"],
-				["room{ext}"],
-				["space{ext}", "room{ext}"],
-				["monika_bg_glitch{ext}"],
-				["monika_bg_glitch{ext}", "monika_glitch1{ext}"],
-				["monika_bg_glitch{ext}", "monika_glitch2{ext}"],
-				["monika_bg_glitch{ext}", "monika_glitch3{ext}"],
-				["monika_bg_glitch{ext}", "monika_glitch4{ext}"]
+				["monika_room.png"],
+				["space.png", "monika_room.png"],
+				["monika_room_highlight.png"],
+				["space.png", "monika_room_highlight.png"],
+				["monika_bg.png"],
+				["space.png", "monika_bg.png"],
+				["monika_bg_highlight.png"],
+				["space.png", "monika_bg_highlight.png"],
+				["room.png"],
+				["space.png", "room.png"],
+				["monika_bg_glitch.png"],
+				["monika_bg_glitch.png", "monika_glitch1.png"],
+				["monika_bg_glitch.png", "monika_glitch2.png"],
+				["monika_bg_glitch.png", "monika_glitch3.png"],
+				["monika_bg_glitch.png", "monika_glitch4.png"]
 			]
 		},
 		{
 			"id": "ddlc.notebook",
 			"label": "The poem game",
 			"folder": "/backgrounds/",
-			"variants": [["notebook{ext}"], ["notebook-glitch{ext}"]]
+			"variants": [["notebook.png"], ["notebook-glitch.png"]]
 		}
 	],
 	"colors": [

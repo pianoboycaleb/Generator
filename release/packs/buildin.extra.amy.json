@@ -8,42 +8,42 @@
 		{
 			"id": "ddlc.fan.amy2",
 			"label": "Amy",
-			"chibi": "/chibis/amy{ext}",
+			"chibi": "/chibis/amy.png",
 			"heads": {
 				"straight": [
-					["a{ext}"],
-					["b{ext}"],
-					["c{ext}"],
-					["d{ext}"],
-					["e{ext}"],
-					["f{ext}"],
-					["g{ext}"],
-					["h{ext}"],
-					["i{ext}"],
-					["h{ext}"],
-					["k{ext}"],
-					["l{ext}"],
-					["m{ext}"],
-					["n{ext}"],
-					["o{ext}"],
-					["p{ext}"],
-					["q{ext}"],
-					["r{ext}"],
-					["s{ext}"],
-					["t{ext}"],
-					["u{ext}"],
-					["v{ext}"],
-					["w{ext}"],
-					["x{ext}"],
-					["y{ext}"],
-					["z{ext}"]
+					["a.png"],
+					["b.png"],
+					["c.png"],
+					["d.png"],
+					["e.png"],
+					["f.png"],
+					["g.png"],
+					["h.png"],
+					["i.png"],
+					["h.png"],
+					["k.png"],
+					["l.png"],
+					["m.png"],
+					["n.png"],
+					["o.png"],
+					["p.png"],
+					["q.png"],
+					["r.png"],
+					["s.png"],
+					["t.png"],
+					["u.png"],
+					["v.png"],
+					["w.png"],
+					["x.png"],
+					["y.png"],
+					["z.png"]
 				],
 				"straight_broken_glases": [
-					["!1{ext}"],
-					["!2{ext}"],
-					["!3{ext}"],
-					["!4{ext}"],
-					["!5{ext}"]
+					["!1.png"],
+					["!2.png"],
+					["!3.png"],
+					["!4.png"],
+					["!5.png"]
 				]
 			},
 			"styleGroups": [
@@ -61,8 +61,8 @@
 										{ "type": "head" }
 									],
 									"positions": {
-										"Left": [["1l{ext}"], ["2l{ext}"], ["3l{ext}"]],
-										"Right": [["1r{ext}"], ["2r{ext}"]]
+										"Left": [["1l.png"], ["2l.png"], ["3l.png"]],
+										"Right": [["1r.png"], ["2r.png"]]
 									}
 								},
 								{
@@ -74,8 +74,8 @@
 										{ "type": "head" }
 									],
 									"positions": {
-										"Left": [["4l{ext}"]],
-										"Right": [["1r{ext}"], ["2r{ext}"]]
+										"Left": [["4l.png"]],
+										"Right": [["1r.png"], ["2r.png"]]
 									}
 								},
 								{
@@ -83,7 +83,7 @@
 									"compatibleHeads": ["straight", "straight_broken_glases"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["5{ext}"] }
+										{ "type": "image", "images": ["5.png"] }
 									]
 								},
 								{
@@ -91,7 +91,7 @@
 									"compatibleHeads": ["straight", "straight_broken_glases"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["6{ext}"] }
+										{ "type": "image", "images": ["6.png"] }
 									]
 								}
 							]
@@ -112,8 +112,8 @@
 										{ "type": "head" }
 									],
 									"positions": {
-										"Left": [["1bl{ext}"], ["2bl{ext}"], ["3bl{ext}"]],
-										"Right": [["1br{ext}"], ["2br{ext}"]]
+										"Left": [["1bl.png"], ["2bl.png"], ["3bl.png"]],
+										"Right": [["1br.png"], ["2br.png"]]
 									}
 								},
 								{
@@ -125,8 +125,8 @@
 										{ "type": "head" }
 									],
 									"positions": {
-										"Left": [["4bl{ext}"]],
-										"Right": [["1br{ext}"], ["2br{ext}"]]
+										"Left": [["4bl.png"]],
+										"Right": [["1br.png"], ["2br.png"]]
 									}
 								},
 								{
@@ -134,7 +134,7 @@
 									"compatibleHeads": ["straight", "straight_broken_glases"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["5b{ext}"] }
+										{ "type": "image", "images": ["5b.png"] }
 									]
 								},
 								{
@@ -142,7 +142,7 @@
 									"compatibleHeads": ["straight", "straight_broken_glases"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["6b{ext}"] }
+										{ "type": "image", "images": ["6b.png"] }
 									]
 								}
 							]

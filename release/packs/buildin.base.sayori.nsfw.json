@@ -17,7 +17,7 @@
 									"id": "dead",
 									"compatibleHeads": [],
 									"positions": {
-										"Variant": [["dead1{ext}"], ["dead2{ext}"]]
+										"Variant": [["dead1.png"], ["dead2.png"]]
 									}
 								}
 							]

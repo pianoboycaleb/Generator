@@ -17,7 +17,7 @@
 									"id": "dddg.buildin.yuri:normal",
 									"compatibleHeads": ["dddg.buildin.yuri:straight"],
 									"positions": {
-										"Right": [["2r_cuts{ext}"]]
+										"Right": [["2r_cuts.png"]]
 									}
 								},
 								{
@@ -26,12 +26,12 @@
 									"folder": "stab/",
 									"positions": {
 										"Variant": [
-											["1{ext}"],
-											["2{ext}"],
-											["3{ext}"],
-											["4{ext}"],
-											["5{ext}"],
-											["6-full{ext}"]
+											["1.png"],
+											["2.png"],
+											["3.png"],
+											["4.png"],
+											["5.png"],
+											["6-full.png"]
 										]
 									}
 								}

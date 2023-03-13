@@ -8,72 +8,72 @@
 		{
 			"id": "ddlc.fan.mc_chad",
 			"label": "MC (Chad)",
-			"chibi": "/chibis/chad{ext}",
+			"chibi": "/chibis/chad.png",
 			"heads": {
 				"straight": [
-					["a{ext}"],
-					["b{ext}"],
-					["c{ext}"],
-					["d{ext}"],
-					["e{ext}"],
-					["f{ext}"],
-					["g{ext}"],
-					["h{ext}"],
-					["i{ext}"],
-					["j{ext}"],
-					["k{ext}"],
-					["l{ext}"],
-					["m{ext}"],
-					["n{ext}"],
-					["o{ext}"],
-					["p{ext}"],
-					["q{ext}"],
-					["r{ext}"],
-					["s{ext}"],
-					["t{ext}"],
-					["y{ext}"],
-					["z{ext}"],
-					["error{ext}"],
-					["error1{ext}"],
-					["shock{ext}"]
+					["a.png"],
+					["b.png"],
+					["c.png"],
+					["d.png"],
+					["e.png"],
+					["f.png"],
+					["g.png"],
+					["h.png"],
+					["i.png"],
+					["j.png"],
+					["k.png"],
+					["l.png"],
+					["m.png"],
+					["n.png"],
+					["o.png"],
+					["p.png"],
+					["q.png"],
+					["r.png"],
+					["s.png"],
+					["t.png"],
+					["y.png"],
+					["z.png"],
+					["error.png"],
+					["error1.png"],
+					["shock.png"]
 				],
 				"straight_closed": [
-					["u{ext}"],
-					["w{ext}"],
-					["v{ext}"],
-					["x1{ext}"],
-					["x2{ext}"],
-					["x3{ext}"],
-					["x4{ext}"]
+					["u.png"],
+					["w.png"],
+					["v.png"],
+					["x1.png"],
+					["x2.png"],
+					["x3.png"],
+					["x4.png"]
 				],
 				"straight_red": {
 					"folder": "red/",
 					"variants": [
-						["a{ext}"],
-						["b{ext}"],
-						["c{ext}"],
-						["d{ext}"],
-						["e{ext}"],
-						["f{ext}"],
-						["g{ext}"],
-						["h{ext}"],
-						["i{ext}"],
-						["j{ext}"],
-						["k{ext}"],
-						["l{ext}"],
-						["m{ext}"],
-						["n{ext}"],
-						["o{ext}"],
-						["p{ext}"],
-						["q{ext}"],
-						["r{ext}"],
-						["s{ext}"],
-						["t{ext}"],
-						["y{ext}"],
-						["z{ext}"],
-						["error{ext}"],
-						["error1{ext}"],
-						["shock{ext}"]
+						["a.png"],
+						["b.png"],
+						["c.png"],
+						["d.png"],
+						["e.png"],
+						["f.png"],
+						["g.png"],
+						["h.png"],
+						["i.png"],
+						["j.png"],
+						["k.png"],
+						["l.png"],
+						["m.png"],
+						["n.png"],
+						["o.png"],
+						["p.png"],
+						["q.png"],
+						["r.png"],
+						["s.png"],
+						["t.png"],
+						["y.png"],
+						["z.png"],
+						["error.png"],
+						["error1.png"],
+						["shock.png"]
 					]
 				}
 			},
@@ -85,8 +85,8 @@
 							"label": "Eyes",
 							"id": "eyes",
 							"variants": {
-								"yellow": "/parts/chad/yellow-eyes{ext}",
-								"red": "/parts/chad/red-eyes{ext}"
+								"yellow": "/parts/chad/yellow-eyes.png",
+								"red": "/parts/chad/red-eyes.png"
 							}
 						}
 					],
@@ -98,8 +98,8 @@
 									"id": "normal",
 									"compatibleHeads": ["straight", "straight_closed"],
 									"positions": {
-										"Left": [["1l{ext}"], ["2l{ext}"], ["4l{ext}"]],
-										"Right": [["1r{ext}"], ["2r{ext}"]]
+										"Left": [["1l.png"], ["2l.png"], ["4l.png"]],
+										"Right": [["1r.png"], ["2r.png"]]
 									}
 								},
 								{
@@ -107,7 +107,7 @@
 									"compatibleHeads": ["straight", "straight_closed"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3{ext}"] }
+										{ "type": "image", "images": ["3.png"] }
 									]
 								}
 							]
@@ -119,8 +119,8 @@
 									"id": "normal",
 									"compatibleHeads": ["straight_red", "straight_closed"],
 									"positions": {
-										"Left": [["1l{ext}"], ["2l{ext}"], ["4l{ext}"]],
-										"Right": [["1r{ext}"], ["2r{ext}"]]
+										"Left": [["1l.png"], ["2l.png"], ["4l.png"]],
+										"Right": [["1r.png"], ["2r.png"]]
 									}
 								},
 								{
@@ -128,7 +128,7 @@
 									"compatibleHeads": ["straight_red", "straight_closed"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3{ext}"] }
+										{ "type": "image", "images": ["3.png"] }
 									]
 								}
 							]
@@ -142,8 +142,8 @@
 							"label": "Eyes",
 							"id": "eyes",
 							"variants": {
-								"yellow": "/parts/chad/yellow-eyes{ext}",
-								"red": "/parts/chad/red-eyes{ext}"
+								"yellow": "/parts/chad/yellow-eyes.png",
+								"red": "/parts/chad/red-eyes.png"
 							}
 						}
 					],
@@ -155,8 +155,8 @@
 									"id": "normal",
 									"compatibleHeads": ["straight", "straight_closed"],
 									"positions": {
-										"Left": [["1bl{ext}"], ["2bl{ext}"], ["4bl{ext}"]],
-										"Right": [["1br{ext}"], ["2br{ext}"]]
+										"Left": [["1bl.png"], ["2bl.png"], ["4bl.png"]],
+										"Right": [["1br.png"], ["2br.png"]]
 									}
 								},
 								{
@@ -164,7 +164,7 @@
 									"compatibleHeads": ["straight", "straight_closed"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3b{ext}"] }
+										{ "type": "image", "images": ["3b.png"] }
 									]
 								}
 							]
@@ -176,8 +176,8 @@
 									"id": "normal",
 									"compatibleHeads": ["straight_red", "straight_closed"],
 									"positions": {
-										"Left": [["1bl{ext}"], ["2bl{ext}"], ["4bl{ext}"]],
-										"Right": [["1br{ext}"], ["2br{ext}"]]
+										"Left": [["1bl.png"], ["2bl.png"], ["4bl.png"]],
+										"Right": [["1br.png"], ["2br.png"]]
 									}
 								},
 								{
@@ -185,7 +185,7 @@
 									"compatibleHeads": ["straight_red", "straight_closed"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3b{ext}"] }
+										{ "type": "image", "images": ["3b.png"] }
 									]
 								}
 							]

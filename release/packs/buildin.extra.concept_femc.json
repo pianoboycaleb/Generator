@@ -8,7 +8,7 @@
 		{
 			"id": "ddlc.fan.concept_femc",
 			"label": "FeMC",
-			"chibi": "chibi{ext}",
+			"chibi": "chibi.png",
 			"styleGroups": [
 				{
 					"id": "uniform",
@@ -19,7 +19,7 @@
 									"id": "normal",
 									"compatibleHeads": ["straight"],
 									"positions": {
-										"Variant": [["1{ext}"], ["2{ext}"], ["2a{ext}"], ["3{ext}"]]
+										"Variant": [["1.png"], ["2.png"], ["2a.png"], ["3.png"]]
 									}
 								}
 							]
@@ -30,41 +30,41 @@
 			"heads": {
 				"straight": {
 					"variants": [
-						["a{ext}"],
-						["b{ext}"],
-						["c{ext}"],
-						["d{ext}"],
-						["e{ext}"],
-						["f{ext}"],
-						["g{ext}"],
-						["h{ext}"],
-						["i{ext}"],
-						["j{ext}"],
-						["k{ext}"],
-						["l{ext}"],
-						["m{ext}"],
-						["n{ext}"],
-						["o{ext}"],
-						["p{ext}"],
-						["q{ext}"],
-						["r{ext}"],
-						["s{ext}"],
-						["t{ext}"],
-						["u{ext}"],
-						["v{ext}"],
-						["w{ext}"],
-						["x{ext}"],
-						["y{ext}"],
-						["z{ext}"],
-						["aa{ext}"],
-						["ab{ext}"],
-						["ac{ext}"],
-						["ad{ext}"],
-						["ae{ext}"],
-						["af{ext}"],
-						["ag{ext}"],
-						["ah{ext}"],
-						["ai{ext}"]
+						["a.png"],
+						["b.png"],
+						["c.png"],
+						["d.png"],
+						["e.png"],
+						["f.png"],
+						["g.png"],
+						["h.png"],
+						["i.png"],
+						["j.png"],
+						["k.png"],
+						["l.png"],
+						["m.png"],
+						["n.png"],
+						["o.png"],
+						["p.png"],
+						["q.png"],
+						["r.png"],
+						["s.png"],
+						["t.png"],
+						["u.png"],
+						["v.png"],
+						["w.png"],
+						["x.png"],
+						["y.png"],
+						["z.png"],
+						["aa.png"],
+						["ab.png"],
+						["ac.png"],
+						["ad.png"],
+						["ae.png"],
+						["af.png"],
+						["ag.png"],
+						["ah.png"],
+						["ai.png"]
 					]
 				}
 			}

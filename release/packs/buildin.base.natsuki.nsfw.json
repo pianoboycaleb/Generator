@@ -8,7 +8,7 @@
 		{
 			"id": "dddg.buildin.base.natsuki:ddlc.natsuki",
 			"heads": {
-				"dddg.buildin.base.natsuki:straight": [["crying{ext}"]]
+				"dddg.buildin.base.natsuki:straight": [["crying.png"]]
 			},
 			"styleGroups": [
 				{
@@ -20,7 +20,7 @@
 									"id": "vomit",
 									"compatibleHeads": [],
 									"renderCommands": [
-										{ "type": "image", "images": ["vomit{ext}"] }
+										{ "type": "image", "images": ["vomit.png"] }
 									]
 								},
 								{
@@ -28,9 +28,9 @@
 									"compatibleHeads": [],
 									"positions": {
 										"Variant": [
-											["ghost1{ext}"],
-											["ghost2{ext}"],
-											["ghost3{ext}"]
+											["ghost1.png"],
+											["ghost2.png"],
+											["ghost3.png"]
 										]
 									}
 								}

@@ -18,8 +18,8 @@
 									"id": "normal",
 									"compatibleHeads": ["straight"],
 									"positions": {
-										"Left": [["1l{ext}"], ["2l{ext}"]],
-										"Right": [["1r{ext}"], ["2r{ext}"]]
+										"Left": [["1l.png"], ["2l.png"]],
+										"Right": [["1r.png"], ["2r.png"]]
 									}
 								},
 								{
@@ -27,14 +27,14 @@
 									"compatibleHeads": ["sideways"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3{ext}"] }
+										{ "type": "image", "images": ["3.png"] }
 									]
 								},
 								{
 									"id": "dragon",
 									"compatibleHeads": [],
 									"positions": {
-										"Variant": [["dragon1{ext}"], ["dragon2{ext}"]]
+										"Variant": [["dragon1.png"], ["dragon2.png"]]
 									}
 								}
 							]
@@ -50,8 +50,8 @@
 									"id": "normal",
 									"compatibleHeads": ["straight"],
 									"positions": {
-										"Left": [["1bl{ext}"], ["2bl{ext}"]],
-										"Right": [["1br{ext}"], ["2br{ext}"]]
+										"Left": [["1bl.png"], ["2bl.png"]],
+										"Right": [["1br.png"], ["2br.png"]]
 									}
 								},
 								{
@@ -59,7 +59,7 @@
 									"compatibleHeads": ["sideways"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3b{ext}"] }
+										{ "type": "image", "images": ["3b.png"] }
 									]
 								}
 							]
@@ -76,14 +76,14 @@
 									"compatibleHeads": [],
 									"positions": {
 										"Variant": [
-											["0a{ext}"],
-											["0b{ext}"],
-											["eyesfull{ext}"],
-											["glitch1{ext}"],
-											["glitch2{ext}"],
-											["glitch3{ext}"],
-											["glitch4{ext}"],
-											["glitch5{ext}"]
+											["0a.png"],
+											["0b.png"],
+											["eyesfull.png"],
+											["glitch1.png"],
+											["glitch2.png"],
+											["glitch3.png"],
+											["glitch4.png"],
+											["glitch5.png"]
 										]
 									}
 								}
@@ -92,51 +92,51 @@
 					]
 				}
 			],
-			"chibi": "/chibis/yuri{ext}",
+			"chibi": "/chibis/yuri.png",
 			"heads": {
 				"straight": [
-					["a{ext}"],
-					["b{ext}"],
-					["c{ext}"],
-					["d{ext}"],
-					["e{ext}"],
-					["f{ext}"],
-					["g{ext}"],
-					["h{ext}"],
-					["i{ext}"],
-					["j{ext}"],
-					["k{ext}"],
-					["k-old{ext}"],
-					["l{ext}"],
-					["l-old{ext}"],
-					["m{ext}"],
-					["m-old{ext}"],
-					["n{ext}"],
-					["o{ext}"],
-					["p{ext}"],
-					["q{ext}"],
-					["r{ext}"],
-					["s{ext}"],
-					["t{ext}"],
-					["u{ext}"],
-					["v{ext}"],
-					["w{ext}"],
-					["w-old{ext}"],
-					["y1{ext}"],
-					["y2{ext}"],
-					["y3{ext}"],
-					["y4{ext}"],
-					["y5{ext}"],
-					["y6{ext}"],
-					["y7{ext}"],
-					["hisui{ext}"]
+					["a.png"],
+					["b.png"],
+					["c.png"],
+					["d.png"],
+					["e.png"],
+					["f.png"],
+					["g.png"],
+					["h.png"],
+					["i.png"],
+					["j.png"],
+					["k.png"],
+					["k-old.png"],
+					["l.png"],
+					["l-old.png"],
+					["m.png"],
+					["m-old.png"],
+					["n.png"],
+					["o.png"],
+					["p.png"],
+					["q.png"],
+					["r.png"],
+					["s.png"],
+					["t.png"],
+					["u.png"],
+					["v.png"],
+					["w.png"],
+					["w-old.png"],
+					["y1.png"],
+					["y2.png"],
+					["y3.png"],
+					["y4.png"],
+					["y5.png"],
+					["y6.png"],
+					["y7.png"],
+					["hisui.png"]
 				],
 				"sideways": [
-					["a2{ext}"],
-					["b2{ext}"],
-					["c2{ext}"],
-					["d2{ext}"],
-					["e2{ext}"]
+					["a2.png"],
+					["b2.png"],
+					["c2.png"],
+					["d2.png"],
+					["e2.png"]
 				]
 			}
 		}

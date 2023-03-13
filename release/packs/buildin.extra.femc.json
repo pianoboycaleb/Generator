@@ -7,198 +7,198 @@
 		{
 			"id": "ddlc.fan.femc",
 			"label": "FeMC",
-			"chibi": "/chibis/femc{ext}",
+			"chibi": "/chibis/femc.png",
 			"heads": {
 				"straight": {
 					"folder": "femc/",
 					"variants": [
-						["a{ext}"],
-						["b{ext}"],
-						["c{ext}"],
-						["d{ext}"],
-						["e{ext}"],
-						["f{ext}"],
-						["g{ext}"],
-						["h{ext}"],
-						["i{ext}"],
-						["j{ext}"],
-						["k{ext}"],
-						["l{ext}"],
-						["m{ext}"],
-						["n{ext}"],
-						["o{ext}"],
-						["p{ext}"],
-						["q{ext}"],
-						["r{ext}"],
-						["s{ext}"],
-						["t{ext}"],
-						["u{ext}"],
-						["v{ext}"],
-						["w{ext}"],
-						["x{ext}"],
-						["y{ext}"],
-						["z{ext}"],
-						["glitch1{ext}"],
-						["glitch2{ext}"],
-						["_1{ext}"],
-						["_2{ext}"],
-						["_3{ext}"],
-						["_4{ext}"],
-						["_5{ext}"],
-						["_6{ext}"],
-						["_7{ext}"],
-						["_8{ext}"],
-						["_9{ext}"],
-						["_10{ext}"],
-						["_10alt{ext}"],
-						["_11{ext}"],
-						["_12{ext}"],
-						["_13{ext}"],
-						["_14{ext}"]
+						["a.png"],
+						["b.png"],
+						["c.png"],
+						["d.png"],
+						["e.png"],
+						["f.png"],
+						["g.png"],
+						["h.png"],
+						["i.png"],
+						["j.png"],
+						["k.png"],
+						["l.png"],
+						["m.png"],
+						["n.png"],
+						["o.png"],
+						["p.png"],
+						["q.png"],
+						["r.png"],
+						["s.png"],
+						["t.png"],
+						["u.png"],
+						["v.png"],
+						["w.png"],
+						["x.png"],
+						["y.png"],
+						["z.png"],
+						["glitch1.png"],
+						["glitch2.png"],
+						["_1.png"],
+						["_2.png"],
+						["_3.png"],
+						["_4.png"],
+						["_5.png"],
+						["_6.png"],
+						["_7.png"],
+						["_8.png"],
+						["_9.png"],
+						["_10.png"],
+						["_10alt.png"],
+						["_11.png"],
+						["_12.png"],
+						["_13.png"],
+						["_14.png"]
 					]
 				},
 				"straight_lh": {
 					"folder": "femc_lh/",
 					"variants": [
-						["a{ext}"],
-						["b{ext}"],
-						["c{ext}"],
-						["d{ext}"],
-						["e{ext}"],
-						["f{ext}"],
-						["g{ext}"],
-						["h{ext}"],
-						["i{ext}"],
-						["j{ext}"],
-						["k{ext}"],
-						["l{ext}"],
-						["m{ext}"],
-						["n{ext}"],
-						["o{ext}"],
-						["p{ext}"],
-						["q{ext}"],
-						["r{ext}"],
-						["s{ext}"],
-						["t{ext}"],
-						["u{ext}"],
-						["v{ext}"],
-						["w{ext}"],
-						["x{ext}"],
-						["y{ext}"],
-						["z{ext}"],
-						["glitch1{ext}"],
-						["glitch2{ext}"],
-						["_1{ext}"],
-						["_2{ext}"],
-						["_3{ext}"],
-						["_4{ext}"],
-						["_5{ext}"],
-						["_6{ext}"],
-						["_7{ext}"],
-						["_8{ext}"],
-						["_9{ext}"],
-						["_10{ext}"],
-						["_10alt{ext}"],
-						["_11{ext}"],
-						["_12{ext}"],
-						["_13{ext}"],
-						["_14{ext}"]
+						["a.png"],
+						["b.png"],
+						["c.png"],
+						["d.png"],
+						["e.png"],
+						["f.png"],
+						["g.png"],
+						["h.png"],
+						["i.png"],
+						["j.png"],
+						["k.png"],
+						["l.png"],
+						["m.png"],
+						["n.png"],
+						["o.png"],
+						["p.png"],
+						["q.png"],
+						["r.png"],
+						["s.png"],
+						["t.png"],
+						["u.png"],
+						["v.png"],
+						["w.png"],
+						["x.png"],
+						["y.png"],
+						["z.png"],
+						["glitch1.png"],
+						["glitch2.png"],
+						["_1.png"],
+						["_2.png"],
+						["_3.png"],
+						["_4.png"],
+						["_5.png"],
+						["_6.png"],
+						["_7.png"],
+						["_8.png"],
+						["_9.png"],
+						["_10.png"],
+						["_10alt.png"],
+						["_11.png"],
+						["_12.png"],
+						["_13.png"],
+						["_14.png"]
 					]
 				},
 				"straight_hetero": {
 					"folder": "femc/hetero/",
 					"variants": [
-						["a{ext}"],
-						["b{ext}"],
-						["c{ext}"],
-						["d{ext}"],
-						["e{ext}"],
-						["f{ext}"],
-						["g{ext}"],
-						["h{ext}"],
-						["i{ext}"],
-						["j{ext}"],
-						["k{ext}"],
-						["l{ext}"],
-						["m{ext}"],
-						["n{ext}"],
-						["o{ext}"],
-						["p{ext}"],
-						["q{ext}"],
-						["r{ext}"],
-						["s{ext}"],
-						["/femc/t{ext}"],
-						["/femc/u{ext}"],
-						["/femc/v{ext}"],
-						["/femc/w{ext}"],
-						["x{ext}"],
-						["y{ext}"],
-						["z{ext}"],
-						["glitch1{ext}"],
-						["glitch2{ext}"],
-						["_1{ext}"],
-						["_2{ext}"],
-						["/femc/_3{ext}"],
-						["/femc/_4{ext}"],
-						["/femc/_5{ext}"],
-						["/femc/_6{ext}"],
-						["_7{ext}"],
-						["_8{ext}"],
-						["/femc/_9{ext}"],
-						["/femc/_10{ext}"],
-						["/femc/_10alt{ext}"],
-						["_11{ext}"],
-						["_12{ext}"],
-						["_13{ext}"],
-						["_14{ext}"]
+						["a.png"],
+						["b.png"],
+						["c.png"],
+						["d.png"],
+						["e.png"],
+						["f.png"],
+						["g.png"],
+						["h.png"],
+						["i.png"],
+						["j.png"],
+						["k.png"],
+						["l.png"],
+						["m.png"],
+						["n.png"],
+						["o.png"],
+						["p.png"],
+						["q.png"],
+						["r.png"],
+						["s.png"],
+						["/femc/t.png"],
+						["/femc/u.png"],
+						["/femc/v.png"],
+						["/femc/w.png"],
+						["x.png"],
+						["y.png"],
+						["z.png"],
+						["glitch1.png"],
+						["glitch2.png"],
+						["_1.png"],
+						["_2.png"],
+						["/femc/_3.png"],
+						["/femc/_4.png"],
+						["/femc/_5.png"],
+						["/femc/_6.png"],
+						["_7.png"],
+						["_8.png"],
+						["/femc/_9.png"],
+						["/femc/_10.png"],
+						["/femc/_10alt.png"],
+						["_11.png"],
+						["_12.png"],
+						["_13.png"],
+						["_14.png"]
 					]
 				},
 				"straight_hetero_lh": {
 					"folder": "femc_lh/hetero/",
 					"variants": [
-						["a{ext}"],
-						["b{ext}"],
-						["c{ext}"],
-						["d{ext}"],
-						["e{ext}"],
-						["f{ext}"],
-						["g{ext}"],
-						["h{ext}"],
-						["i{ext}"],
-						["j{ext}"],
-						["k{ext}"],
-						["l{ext}"],
-						["m{ext}"],
-						["n{ext}"],
-						["o{ext}"],
-						["p{ext}"],
-						["q{ext}"],
-						["r{ext}"],
-						["s{ext}"],
-						["/femc_lh/t{ext}"],
-						["/femc_lh/u{ext}"],
-						["/femc_lh/v{ext}"],
-						["/femc_lh/w{ext}"],
-						["x{ext}"],
-						["y{ext}"],
-						["z{ext}"],
-						["glitch1{ext}"],
-						["glitch2{ext}"],
-						["_1{ext}"],
-						["_2{ext}"],
-						["/femc_lh/_3{ext}"],
-						["/femc_lh/_4{ext}"],
-						["/femc_lh/_5{ext}"],
-						["/femc_lh/_6{ext}"],
-						["_7{ext}"],
-						["_8{ext}"],
-						["/femc_lh/_9{ext}"],
-						["/femc_lh/_10{ext}"],
-						["/femc_lh/_10alt{ext}"],
-						["_11{ext}"],
-						["_12{ext}"],
-						["_13{ext}"],
-						["_14{ext}"]
+						["a.png"],
+						["b.png"],
+						["c.png"],
+						["d.png"],
+						["e.png"],
+						["f.png"],
+						["g.png"],
+						["h.png"],
+						["i.png"],
+						["j.png"],
+						["k.png"],
+						["l.png"],
+						["m.png"],
+						["n.png"],
+						["o.png"],
+						["p.png"],
+						["q.png"],
+						["r.png"],
+						["s.png"],
+						["/femc_lh/t.png"],
+						["/femc_lh/u.png"],
+						["/femc_lh/v.png"],
+						["/femc_lh/w.png"],
+						["x.png"],
+						["y.png"],
+						["z.png"],
+						["glitch1.png"],
+						["glitch2.png"],
+						["_1.png"],
+						["_2.png"],
+						["/femc_lh/_3.png"],
+						["/femc_lh/_4.png"],
+						["/femc_lh/_5.png"],
+						["/femc_lh/_6.png"],
+						["_7.png"],
+						["_8.png"],
+						["/femc_lh/_9.png"],
+						["/femc_lh/_10.png"],
+						["/femc_lh/_10alt.png"],
+						["_11.png"],
+						["_12.png"],
+						["_13.png"],
+						["_14.png"]
 					]
 				}
 			},
@@ -210,16 +210,16 @@
 							"label": "Eyes",
 							"id": "eyes",
 							"variants": {
-								"yellow": "/parts/femc/yellow-eyes{ext}",
-								"hetero": "/parts/femc/hetero-eyes{ext}"
+								"yellow": "/parts/femc/yellow-eyes.png",
+								"hetero": "/parts/femc/hetero-eyes.png"
 							}
 						},
 						{
 							"label": "Hairs",
 							"id": "hairs",
 							"variants": {
-								"sh": "/parts/femc/short-hair{ext}",
-								"lh": "/parts/femc/long-hair{ext}"
+								"sh": "/parts/femc/short-hair.png",
+								"lh": "/parts/femc/long-hair.png"
 							}
 						}
 					],
@@ -236,12 +236,12 @@
 									"compatibleHeads": ["straight"],
 									"positions": {
 										"Left": [
-											["1l{ext}"],
-											["2l{ext}"],
-											["4l{ext}"],
-											["5l{ext}"]
+											["1l.png"],
+											["2l.png"],
+											["4l.png"],
+											["5l.png"]
 										],
-										"Right": [["1r{ext}"], ["4r{ext}"]]
+										"Right": [["1r.png"], ["4r.png"]]
 									}
 								},
 								{
@@ -249,7 +249,7 @@
 									"compatibleHeads": ["straight"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3{ext}"] }
+										{ "type": "image", "images": ["3.png"] }
 									]
 								}
 							]
@@ -266,12 +266,12 @@
 									"compatibleHeads": ["straight_lh"],
 									"positions": {
 										"Left": [
-											["1l{ext}"],
-											["2l{ext}"],
-											["4l{ext}"],
-											["5l{ext}"]
+											["1l.png"],
+											["2l.png"],
+											["4l.png"],
+											["5l.png"]
 										],
-										"Right": [["1r{ext}"], ["4r{ext}"]]
+										"Right": [["1r.png"], ["4r.png"]]
 									}
 								},
 								{
@@ -279,7 +279,7 @@
 									"compatibleHeads": ["straight_lh"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3{ext}"] }
+										{ "type": "image", "images": ["3.png"] }
 									]
 								}
 							]
@@ -296,12 +296,12 @@
 									"compatibleHeads": ["straight_hetero"],
 									"positions": {
 										"Left": [
-											["1l{ext}"],
-											["2l{ext}"],
-											["4l{ext}"],
-											["5l{ext}"]
+											["1l.png"],
+											["2l.png"],
+											["4l.png"],
+											["5l.png"]
 										],
-										"Right": [["1r{ext}"], ["4r{ext}"]]
+										"Right": [["1r.png"], ["4r.png"]]
 									}
 								},
 								{
@@ -309,7 +309,7 @@
 									"compatibleHeads": ["straight_hetero"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3{ext}"] }
+										{ "type": "image", "images": ["3.png"] }
 									]
 								}
 							]
@@ -326,12 +326,12 @@
 									"compatibleHeads": ["straight_hetero_lh"],
 									"positions": {
 										"Left": [
-											["1l{ext}"],
-											["2l{ext}"],
-											["4l{ext}"],
-											["5l{ext}"]
+											["1l.png"],
+											["2l.png"],
+											["4l.png"],
+											["5l.png"]
 										],
-										"Right": [["1r{ext}"], ["4r{ext}"]]
+										"Right": [["1r.png"], ["4r.png"]]
 									}
 								},
 								{
@@ -339,7 +339,7 @@
 									"compatibleHeads": ["straight_hetero_lh"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3{ext}"] }
+										{ "type": "image", "images": ["3.png"] }
 									]
 								}
 							]
@@ -353,16 +353,16 @@
 							"label": "Eyes",
 							"id": "eyes",
 							"variants": {
-								"yellow": "/parts/femc/yellow-eyes{ext}",
-								"hetero": "/parts/femc/hetero-eyes{ext}"
+								"yellow": "/parts/femc/yellow-eyes.png",
+								"hetero": "/parts/femc/hetero-eyes.png"
 							}
 						},
 						{
 							"label": "Hairs",
 							"id": "hairs",
 							"variants": {
-								"sh": "/parts/femc/short-hair{ext}",
-								"lh": "/parts/femc/long-hair{ext}"
+								"sh": "/parts/femc/short-hair.png",
+								"lh": "/parts/femc/long-hair.png"
 							}
 						}
 					],
@@ -379,12 +379,12 @@
 									"compatibleHeads": ["straight"],
 									"positions": {
 										"Left": [
-											["1bl{ext}"],
-											["2bl{ext}"],
-											["4bl{ext}"],
-											["5bl{ext}"]
+											["1bl.png"],
+											["2bl.png"],
+											["4bl.png"],
+											["5bl.png"]
 										],
-										"Right": [["1br{ext}"], ["4br{ext}"]]
+										"Right": [["1br.png"], ["4br.png"]]
 									}
 								},
 								{
@@ -392,7 +392,7 @@
 									"compatibleHeads": ["straight"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3b{ext}"] }
+										{ "type": "image", "images": ["3b.png"] }
 									]
 								}
 							]
@@ -409,12 +409,12 @@
 									"compatibleHeads": ["straight_lh"],
 									"positions": {
 										"Left": [
-											["1bl{ext}"],
-											["2bl{ext}"],
-											["4bl{ext}"],
-											["5bl{ext}"]
+											["1bl.png"],
+											["2bl.png"],
+											["4bl.png"],
+											["5bl.png"]
 										],
-										"Right": [["1br{ext}"], ["4br{ext}"]]
+										"Right": [["1br.png"], ["4br.png"]]
 									}
 								},
 								{
@@ -422,7 +422,7 @@
 									"compatibleHeads": ["straight_lh"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3b{ext}"] }
+										{ "type": "image", "images": ["3b.png"] }
 									]
 								}
 							]
@@ -439,12 +439,12 @@
 									"compatibleHeads": ["straight_hetero"],
 									"positions": {
 										"Left": [
-											["1bl{ext}"],
-											["2bl{ext}"],
-											["4bl{ext}"],
-											["5bl{ext}"]
+											["1bl.png"],
+											["2bl.png"],
+											["4bl.png"],
+											["5bl.png"]
 										],
-										"Right": [["1br{ext}"], ["4br{ext}"]]
+										"Right": [["1br.png"], ["4br.png"]]
 									}
 								},
 								{
@@ -452,7 +452,7 @@
 									"compatibleHeads": ["straight_hetero"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3b{ext}"] }
+										{ "type": "image", "images": ["3b.png"] }
 									]
 								}
 							]
@@ -469,12 +469,12 @@
 									"compatibleHeads": ["straight_hetero_lh"],
 									"positions": {
 										"Left": [
-											["1bl{ext}"],
-											["2bl{ext}"],
-											["4bl{ext}"],
-											["5bl{ext}"]
+											["1bl.png"],
+											["2bl.png"],
+											["4bl.png"],
+											["5bl.png"]
 										],
-										"Right": [["1br{ext}"], ["4br{ext}"]]
+										"Right": [["1br.png"], ["4br.png"]]
 									}
 								},
 								{
@@ -482,7 +482,7 @@
 									"compatibleHeads": ["straight_hetero_lh"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3b{ext}"] }
+										{ "type": "image", "images": ["3b.png"] }
 									]
 								}
 							]
@@ -496,16 +496,16 @@
 							"label": "Eyes",
 							"id": "eyes",
 							"variants": {
-								"yellow": "/parts/femc/yellow-eyes{ext}",
-								"hetero": "/parts/femc/hetero-eyes{ext}"
+								"yellow": "/parts/femc/yellow-eyes.png",
+								"hetero": "/parts/femc/hetero-eyes.png"
 							}
 						},
 						{
 							"label": "Hairs",
 							"id": "hairs",
 							"variants": {
-								"sh": "/parts/femc/short-hair{ext}",
-								"lh": "/parts/femc/long-hair{ext}"
+								"sh": "/parts/femc/short-hair.png",
+								"lh": "/parts/femc/long-hair.png"
 							}
 						}
 					],
@@ -522,12 +522,12 @@
 									"compatibleHeads": ["straight"],
 									"positions": {
 										"Left": [
-											["1cl{ext}"],
-											["2cl{ext}"],
-											["4cl{ext}"],
-											["5cl{ext}"]
+											["1cl.png"],
+											["2cl.png"],
+											["4cl.png"],
+											["5cl.png"]
 										],
-										"Right": [["1cr{ext}"], ["4cr{ext}"]]
+										"Right": [["1cr.png"], ["4cr.png"]]
 									}
 								},
 								{
@@ -536,7 +536,7 @@
 									"folder": "femc/",
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3c{ext}"] }
+										{ "type": "image", "images": ["3c.png"] }
 									]
 								}
 							]
@@ -553,12 +553,12 @@
 									"compatibleHeads": ["straight_lh"],
 									"positions": {
 										"Left": [
-											["1cl{ext}"],
-											["2cl{ext}"],
-											["4cl{ext}"],
-											["5cl{ext}"]
+											["1cl.png"],
+											["2cl.png"],
+											["4cl.png"],
+											["5cl.png"]
 										],
-										"Right": [["1cr{ext}"], ["4cr{ext}"]]
+										"Right": [["1cr.png"], ["4cr.png"]]
 									}
 								},
 								{
@@ -567,7 +567,7 @@
 									"folder": "femc/",
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3c{ext}"] }
+										{ "type": "image", "images": ["3c.png"] }
 									]
 								}
 							]
@@ -584,12 +584,12 @@
 									"compatibleHeads": ["straight_hetero"],
 									"positions": {
 										"Left": [
-											["1cl{ext}"],
-											["2cl{ext}"],
-											["4cl{ext}"],
-											["5cl{ext}"]
+											["1cl.png"],
+											["2cl.png"],
+											["4cl.png"],
+											["5cl.png"]
 										],
-										"Right": [["1cr{ext}"], ["4cr{ext}"]]
+										"Right": [["1cr.png"], ["4cr.png"]]
 									}
 								},
 								{
@@ -598,7 +598,7 @@
 									"folder": "femc/",
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3c{ext}"] }
+										{ "type": "image", "images": ["3c.png"] }
 									]
 								}
 							]
@@ -615,12 +615,12 @@
 									"compatibleHeads": ["straight_hetero_lh"],
 									"positions": {
 										"Left": [
-											["1cl{ext}"],
-											["2cl{ext}"],
-											["4cl{ext}"],
-											["5cl{ext}"]
+											["1cl.png"],
+											["2cl.png"],
+											["4cl.png"],
+											["5cl.png"]
 										],
-										"Right": [["1cr{ext}"], ["4cr{ext}"]]
+										"Right": [["1cr.png"], ["4cr.png"]]
 									}
 								},
 								{
@@ -629,7 +629,7 @@
 									"folder": "femc/",
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3c{ext}"] }
+										{ "type": "image", "images": ["3c.png"] }
 									]
 								}
 							]

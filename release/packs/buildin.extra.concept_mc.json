@@ -8,7 +8,7 @@
 		{
 			"id": "ddlc.fan.concept_mc",
 			"label": "MC",
-			"chibi": "chibi{ext}",
+			"chibi": "chibi.png",
 			"styleGroups": [
 				{
 					"id": "uniform",
@@ -17,9 +17,9 @@
 							"id": "eyes",
 							"label": "Eyes",
 							"variants": {
-								"brown": "preview-brown{ext}",
-								"yellow": "preview-yellow{ext}",
-								"red": "preview-red{ext}"
+								"brown": "preview-brown.png",
+								"yellow": "preview-yellow.png",
+								"red": "preview-red.png"
 							}
 						}
 					],
@@ -37,7 +37,7 @@
 									"id": "normal",
 									"compatibleHeads": ["straight_brown", "straight_eyes_closed"],
 									"positions": {
-										"Variant": [["1{ext}"], ["2{ext}"]]
+										"Variant": [["1.png"], ["2.png"]]
 									}
 								}
 							]
@@ -58,7 +58,7 @@
 										"straight_eyes_closed"
 									],
 									"positions": {
-										"Variant": [["1{ext}"], ["2{ext}"]]
+										"Variant": [["1.png"], ["2.png"]]
 									}
 								}
 							]
@@ -76,7 +76,7 @@
 									"id": "normal",
 									"compatibleHeads": ["straight_red", "straight_eyes_closed"],
 									"positions": {
-										"Variant": [["1{ext}"], ["2{ext}"]]
+										"Variant": [["1.png"], ["2.png"]]
 									}
 								}
 							]
@@ -90,9 +90,9 @@
 							"id": "eyes",
 							"label": "Eyes",
 							"variants": {
-								"brown": "preview-brown{ext}",
-								"yellow": "preview-yellow{ext}",
-								"red": "preview-red{ext}"
+								"brown": "preview-brown.png",
+								"yellow": "preview-yellow.png",
+								"red": "preview-red.png"
 							}
 						}
 					],
@@ -110,7 +110,7 @@
 									"id": "normal",
 									"compatibleHeads": ["straight_brown", "straight_eyes_closed"],
 									"positions": {
-										"Variant": [["1b{ext}"], ["2b{ext}"]]
+										"Variant": [["1b.png"], ["2b.png"]]
 									}
 								}
 							]
@@ -131,7 +131,7 @@
 										"straight_eyes_closed"
 									],
 									"positions": {
-										"Variant": [["1b{ext}"], ["2b{ext}"]]
+										"Variant": [["1b.png"], ["2b.png"]]
 									}
 								}
 							]
@@ -149,7 +149,7 @@
 									"id": "normal",
 									"compatibleHeads": ["straight_red", "straight_eyes_closed"],
 									"positions": {
-										"Variant": [["1b{ext}"], ["2b{ext}"]]
+										"Variant": [["1b.png"], ["2b.png"]]
 									}
 								}
 							]
@@ -161,119 +161,119 @@
 				"straight_eyes_closed": {
 					"folder": "brown/",
 					"variants": [
-						["h1{ext}"],
-						["i1{ext}"],
-						["j1{ext}"],
-						["k1{ext}"],
-						["l1{ext}"]
+						["h1.png"],
+						["i1.png"],
+						["j1.png"],
+						["k1.png"],
+						["l1.png"]
 					]
 				},
 				"straight_brown": {
 					"folder": "brown/",
 					"variants": [
-						["a{ext}"],
-						["b{ext}"],
-						["c{ext}"],
-						["e{ext}"],
-						["f{ext}"],
-						["g{ext}"],
-						["h{ext}"],
-						["i{ext}"],
-						["j{ext}"],
-						["k{ext}"],
-						["l{ext}"],
-						["m{ext}"],
-						["n{ext}"],
-						["o{ext}"],
-						["p{ext}"],
-						["q{ext}"],
-						["r{ext}"],
-						["s{ext}"],
-						["t{ext}"],
-						["u{ext}"],
-						["v{ext}"],
-						["w{ext}"],
-						["x{ext}"],
-						["y{ext}"],
-						["z{ext}"],
-						["a1{ext}"],
-						["b1{ext}"],
-						["c1{ext}"],
-						["e1{ext}"],
-						["f1{ext}"],
-						["g1{ext}"]
+						["a.png"],
+						["b.png"],
+						["c.png"],
+						["e.png"],
+						["f.png"],
+						["g.png"],
+						["h.png"],
+						["i.png"],
+						["j.png"],
+						["k.png"],
+						["l.png"],
+						["m.png"],
+						["n.png"],
+						["o.png"],
+						["p.png"],
+						["q.png"],
+						["r.png"],
+						["s.png"],
+						["t.png"],
+						["u.png"],
+						["v.png"],
+						["w.png"],
+						["x.png"],
+						["y.png"],
+						["z.png"],
+						["a1.png"],
+						["b1.png"],
+						["c1.png"],
+						["e1.png"],
+						["f1.png"],
+						["g1.png"]
 					]
 				},
 				"straight_yellow": {
 					"folder": "yellow/",
 					"variants": [
-						["a{ext}"],
-						["b{ext}"],
-						["c{ext}"],
-						["e{ext}"],
-						["f{ext}"],
-						["g{ext}"],
-						["h{ext}"],
-						["i{ext}"],
-						["j{ext}"],
-						["k{ext}"],
-						["l{ext}"],
-						["m{ext}"],
-						["n{ext}"],
-						["o{ext}"],
-						["p{ext}"],
-						["q{ext}"],
-						["r{ext}"],
-						["s{ext}"],
-						["t{ext}"],
-						["u{ext}"],
-						["v{ext}"],
-						["w{ext}"],
-						["x{ext}"],
-						["y{ext}"],
-						["z{ext}"],
-						["a1{ext}"],
-						["b1{ext}"],
-						["c1{ext}"],
-						["e1{ext}"],
-						["f1{ext}"],
-						["g1{ext}"]
+						["a.png"],
+						["b.png"],
+						["c.png"],
+						["e.png"],
+						["f.png"],
+						["g.png"],
+						["h.png"],
+						["i.png"],
+						["j.png"],
+						["k.png"],
+						["l.png"],
+						["m.png"],
+						["n.png"],
+						["o.png"],
+						["p.png"],
+						["q.png"],
+						["r.png"],
+						["s.png"],
+						["t.png"],
+						["u.png"],
+						["v.png"],
+						["w.png"],
+						["x.png"],
+						["y.png"],
+						["z.png"],
+						["a1.png"],
+						["b1.png"],
+						["c1.png"],
+						["e1.png"],
+						["f1.png"],
+						["g1.png"]
 					]
 				},
 				"straight_red": {
 					"folder": "red/",
 					"variants": [
-						["a{ext}"],
-						["b{ext}"],
-						["c{ext}"],
-						["e{ext}"],
-						["f{ext}"],
-						["g{ext}"],
-						["h{ext}"],
-						["i{ext}"],
-						["j{ext}"],
-						["k{ext}"],
-						["l{ext}"],
-						["m{ext}"],
-						["n{ext}"],
-						["o{ext}"],
-						["p{ext}"],
-						["q{ext}"],
-						["r{ext}"],
-						["s{ext}"],
-						["t{ext}"],
-						["u{ext}"],
-						["v{ext}"],
-						["w{ext}"],
-						["x{ext}"],
-						["y{ext}"],
-						["z{ext}"],
-						["a1{ext}"],
-						["b1{ext}"],
-						["c1{ext}"],
-						["e1{ext}"],
-						["f1{ext}"],
-						["g1{ext}"]
+						["a.png"],
+						["b.png"],
+						["c.png"],
+						["e.png"],
+						["f.png"],
+						["g.png"],
+						["h.png"],
+						["i.png"],
+						["j.png"],
+						["k.png"],
+						["l.png"],
+						["m.png"],
+						["n.png"],
+						["o.png"],
+						["p.png"],
+						["q.png"],
+						["r.png"],
+						["s.png"],
+						["t.png"],
+						["u.png"],
+						["v.png"],
+						["w.png"],
+						["x.png"],
+						["y.png"],
+						["z.png"],
+						["a1.png"],
+						["b1.png"],
+						["c1.png"],
+						["e1.png"],
+						["f1.png"],
+						["g1.png"]
 					]
 				}
 			}
