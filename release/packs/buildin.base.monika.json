@@ -36,6 +36,31 @@
 					]
 				},
 				{
+					"id": "casual",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "casual_normal",
+									"compatibleHeads": ["straight"],
+									"positions": {
+										"Left": [["1lb.png"], ["2lb.png"]],
+										"Right": [["1rb.png"], ["2rb.png"]]
+									}
+								},
+								{
+									"id": "casual_leaned",
+									"compatibleHeads": ["sideways"],
+									"renderCommands": [
+										{ "type": "head" },
+										{ "type": "image", "images": ["3b.png"] }
+									]
+								}
+							]
+						}
+					]
+				},
+				{
 					"id": "old",
 					"styles": [
 						{
