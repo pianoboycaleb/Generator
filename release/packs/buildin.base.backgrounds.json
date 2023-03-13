@@ -8,31 +8,31 @@
 			"id": "ddlc.clubroom",
 			"label": "Clubroom",
 			"folder": "/backgrounds/",
-			"variants": [["club.png"], ["club-sm-intro.png"], ["club_morning.png"]]
+			"variants": [["club.png"], ["club-sm-intro.png"], ["club_morning.png"],["club_rain.png"],["club_gloom.png"],["club_dusk.png"],["club_festival.png"],["club_glitch.png"],["club_ptsd.png"],["club_night.png"],["club_apocalypse.png"],["club_apocalypse_night.png"]]
 		},
 		{
 			"id": "ddlc.closet",
 			"label": "Closet",
 			"folder": "/backgrounds/",
-			"variants": [["closet.png"]]
+			"variants": [["closet.png"],["closet_afternoon.png"],["closet_creepy.png"],["closet_darkred.png"]]
 		},
 		{
 			"id": "ddlc.corridor",
 			"label": "Corridor",
 			"folder": "/backgrounds/",
-			"variants": [["corridor.png"]]
+			"variants": [["corridor.png"],["corridor_rain.png"],["corridor_dusk.png"],["corridor_nolights.png"],["corridor_dark.png"],["corridor_night.png"],["corridor_creepy.png"]]
 		},
 		{
 			"id": "ddlc.classroom",
 			"label": "Classroom",
 			"folder": "/backgrounds/",
-			"variants": [["class.png"]]
+			"variants": [["class.png"],["class_rain.png"],["class_afternoon.png"],["class_clubfront.png"],["class_gloom.png"],["class_meme.png"],["class_night.png"],["class_empty.png"]]
 		},
 		{
 			"id": "ddlc.musicroom",
 			"label": "Music room",
 			"folder": "/backgrounds/",
-			"variants": [["musicroom.png"], ["music-room_night.png"],["music-room_afternoon.png"],["music-room_darkthing.png"]]
+			"variants": [["musicroom.png"], ["music_room_night.png"],["music_room_afternoon.png"],["music_room_darkthing.png"]]
 		},
 		{
 			"id": "ddlc.stairwell",
@@ -44,25 +44,25 @@
 			"id": "ddlc.street",
 			"label": "Street",
 			"folder": "/backgrounds/",
-			"variants": [["residential.png"]]
+			"variants": [["residential.png"],["residential_afternoon.png"],["residential_rain.png"],["residential_dusk.png"],["residential_night.png"],["residential_rainnight.png"],["residential_nightdark.png"],["residential_gloom.png"],["residential_yuri.png"],["residential_apocalypse.png"]]
 		},
 		{
 			"id": "ddlc.house",
 			"label": "House",
 			"folder": "/backgrounds/",
-			"variants": [["house.png"]]
+			"variants": [["house.png"],["house_afternoon.png"],["house_dusk.png"],["house_fall.png"],["house_night.png"],["house_night2.png"],["house_night3.png"]]
 		},
 		{
 			"id": "ddlc.bedroom",
 			"label": "Bedroom",
 			"folder": "/backgrounds/",
-			"variants": [["bedroom.png"]]
+			"variants": [["bedroom.png"],["bedroom_night.png"],["bedroom_gloom.png"],["bedroom_dark.png"],["bedroom_creepy.png"],["bedroom_creepy2.png"]]
 		},
 		{
 			"id": "ddlc.kitchen",
 			"label": "Kitchen",
 			"folder": "/backgrounds/",
-			"variants": [["kitchen.png"]]
+			"variants": [["kitchen.png"],["kitchen_afternoon.png"],["kitchen_night.png"],["kitchen_dark.png"],["kitchen_glitch.png"]]
 		},
 		{
 			"id": "ddlc.sayoris",
@@ -70,7 +70,13 @@
 			"variants": [
 				["/backgrounds/sayori_bedroom.png"],
 				["/cg/sayori_kill/s_kill_bg.png"],
-				["/cg/sayori_kill/s_kill_bg2.png"]
+				["/cg/sayori_kill/s_kill_bg2.png"],
+				["/backgrounds/sayori_gloom.png"],
+				["/backgrounds/sayori_dusk.png"],
+				["/backgrounds/sayori_night.png"],
+				["/backgrounds/sayori_cleannight.png"],
+				["/backgrounds/sayori_nightdark.png"],
+				["/backgrounds/sayori_creepy.png"]
 			]
 		},
 		{
@@ -78,12 +84,6 @@
 			"label": "Blue screen of death",
 			"folder": "/backgrounds/",
 			"variants": [["bsod.png"]]
-		},
-		{
-			"id": "ddlc.unused_house",
-			"label": "Unused house found in game files",
-			"folder": "/backgrounds/",
-			"variants": [["unused-house.jpg"]]
 		},
 		{
 			"id": "ddlc.natsuki.reading",
@@ -228,6 +228,9 @@
 				["space.png", "monika_bg_highlight.png"],
 				["room.png"],
 				["space.png", "room.png"],
+				["spaceroom_dark.png"],
+				["spaceroom_nodesk.png"],
+				["spaceroom_meme.png"],
 				["monika_bg_glitch.png"],
 				["monika_bg_glitch.png", "monika_glitch1.png"],
 				["monika_bg_glitch.png", "monika_glitch2.png"],
