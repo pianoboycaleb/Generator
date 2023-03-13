@@ -7,7 +7,7 @@
 		{
 			"id": "ddlc.monika",
 			"label": "Monika",
-			"chibi": "/chibis/monika{ext}",
+			"chibi": "/chibis/monika.png",
 			"folder": "/monika/",
 			"styleGroups": [
 				{
@@ -19,8 +19,8 @@
 									"id": "normal",
 									"compatibleHeads": ["straight"],
 									"positions": {
-										"Left": [["1l{ext}"], ["2l{ext}"]],
-										"Right": [["1r{ext}"], ["2r{ext}"]]
+										"Left": [["1l.png"], ["2l.png"]],
+										"Right": [["1r.png"], ["2r.png"]]
 									}
 								},
 								{
@@ -28,7 +28,7 @@
 									"compatibleHeads": ["sideways"],
 									"renderCommands": [
 										{ "type": "head" },
-										{ "type": "image", "images": ["3{ext}"] }
+										{ "type": "image", "images": ["3.png"] }
 									]
 								}
 							]
@@ -46,11 +46,11 @@
 									"folder": "old/",
 									"positions": {
 										"Variant": [
-											["1{ext}"],
-											["2{ext}"],
-											["3{ext}"],
-											["4{ext}"],
-											["5{ext}"]
+											["1.png"],
+											["2.png"],
+											["3.png"],
+											["4.png"],
+											["5.png"]
 										]
 									}
 								}
@@ -68,10 +68,10 @@
 									"compatibleHeads": [],
 									"positions": {
 										"Variant": [
-											["g1_scaled{ext}"],
-											["g2{ext}"],
-											["g3{ext}"],
-											["g4{ext}"]
+											["g1_scaled.png"],
+											["g2.png"],
+											["g3.png"],
+											["g4.png"]
 										]
 									}
 								}
@@ -82,27 +82,27 @@
 			],
 			"heads": {
 				"straight": [
-					["a{ext}"],
-					["b{ext}"],
-					["c{ext}"],
-					["d{ext}"],
-					["e{ext}"],
-					["f{ext}"],
-					["g{ext}"],
-					["h{ext}"],
-					["i{ext}"],
-					["j{ext}"],
-					["k{ext}"],
-					["l{ext}"],
-					["m{ext}"],
-					["n{ext}"],
-					["o{ext}"],
-					["p{ext}"],
-					["q{ext}"],
-					["r{ext}"]
+					["a.png"],
+					["b.png"],
+					["c.png"],
+					["d.png"],
+					["e.png"],
+					["f.png"],
+					["g.png"],
+					["h.png"],
+					["i.png"],
+					["j.png"],
+					["k.png"],
+					["l.png"],
+					["m.png"],
+					["n.png"],
+					["o.png"],
+					["p.png"],
+					["q.png"],
+					["r.png"]
 				],
 				"sideways": {
-					"variants": [["a2{ext}"], ["b2{ext}"]],
+					"variants": [["a2.png"], ["b2.png"]],
 					"offset": [135, 75]
 				}
 			}
