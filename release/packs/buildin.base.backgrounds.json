@@ -44,13 +44,13 @@
 			"id": "ddlc.street",
 			"label": "Street",
 			"folder": "/backgrounds/",
-			"variants": [["residential.png"],["residential_afternoon.png"],["residential_rain.png"],["residential_dusk.png"],["residential_night.png"],["residential_rainnight.png"],["residential_nightdark.png"],["residential_gloom.png"],["residential_yuri.png"],["residential_apocalypse.png"]]
+			"variants": [["residential.png"],["residential_afternoon.png"],["residential_rain.png"],["residential_snow.png"],["residential_snow_evening.png"],["residential_dusk.png"],["residential_night.png"],["residential_rainnight.png"],["residential_nightdark.png"],["residential_gloom.png"],["residential_yuri.png"],["residential_apocalypse.png"]]
 		},
 		{
 			"id": "ddlc.house",
 			"label": "House",
 			"folder": "/backgrounds/",
-			"variants": [["house.png"],["house_afternoon.png"],["house_dusk.png"],["house_fall.png"],["house_night.png"],["house_night2.png"],["house_night3.png"]]
+			"variants": [["house.png"],["house_afternoon.png"],["house_dusk.png"],["house_fall.png"],["house_snow.png"],["house_snow_evening.png"],["house_night.png"],["house_night2.png"],["house_night3.png"]]
 		},
 		{
 			"id": "ddlc.bedroom",
